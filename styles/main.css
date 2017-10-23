@@ -1,0 +1,10 @@
+body  {
+    background:#999;
+    front-family: arial;
+}
+h1, h2, li {
+  color: #000;
+}
+a {
+  color: blue;
+}
